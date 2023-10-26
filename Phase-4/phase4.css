@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#water-level {
+    text-align: center;
+    margin: 20px;
+}
+
+#flood-warning {
+    text-align: center;
+    margin: 20px;
+}
